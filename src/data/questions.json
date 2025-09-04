@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What is the capital of France?",
+    "correct_answer": "Paris",
+    "incorrect_answers": ["London", "Berlin", "Madrid"],
+    "type": "multiple",
+    "points": 10
+  },
+  {
+    "id": 2,
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "What is the chemical symbol for gold?",
+    "correct_answer": "Au",
+    "incorrect_answers": ["Go", "Gd", "Ag"],
+    "type": "multiple",
+    "points": 20
+  },
+  {
+    "id": 3,
+    "category": "History",
+    "difficulty": "hard",
+    "question": "In which year did World War II end?",
+    "correct_answer": "1945",
+    "incorrect_answers": ["1944", "1946", "1943"],
+    "type": "multiple",
+    "points": 30
+  },
+  {
+    "id": 4,
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Who founded Microsoft?",
+    "correct_answer": "Bill Gates",
+    "incorrect_answers": ["Steve Jobs", "Mark Zuckerberg", "Larry Page"],
+    "type": "multiple",
+    "points": 20
+  },
+  {
+    "id": 5,
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "How many players are on a soccer team on the field?",
+    "correct_answer": "11",
+    "incorrect_answers": ["10", "12", "9"],
+    "type": "multiple",
+    "points": 10
+  },
+  {
+    "id": 6,
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which is the largest ocean on Earth?",
+    "correct_answer": "Pacific Ocean",
+    "incorrect_answers": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "type": "multiple",
+    "points": 20
+  },
+  {
+    "id": 7,
+    "category": "Literature",
+    "difficulty": "hard",
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "correct_answer": "Jane Austen",
+    "incorrect_answers": ["Emily Bronte", "Charlotte Bronte", "Virginia Woolf"],
+    "type": "multiple",
+    "points": 30
+  },
+  {
+    "id": 8,
+    "category": "Mathematics",
+    "difficulty": "easy",
+    "question": "What is 15 × 8?",
+    "correct_answer": "120",
+    "incorrect_answers": ["115", "125", "130"],
+    "type": "multiple",
+    "points": 10
+  }
+]
